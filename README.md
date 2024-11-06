@@ -26,8 +26,14 @@ Can alos create a new branch to so the chnages
 
 can also delete the readme-edits  
 
-***If you want to make a new changes - repeat the same process..
+***If you want to make a new changes - repeat the same process.
 
+***********************************************************
+
+Create a repository.
+Start and manage a new branch.
+Change a file and commit those changes to GitHub.
+Open and merge a pull request.
 
 
 
