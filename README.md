@@ -26,9 +26,11 @@ Can alos create a new branch to so the chnages
 
 can also delete the readme-edits  
 
-***If you want to make a new changes - repeat the same process.
+***If you want to make a new changes - repeat the same process
 
 ***********************************************************
+
+**This is a new change by following the same process**
 
 Create a repository.
 Start and manage a new branch.
